@@ -24,4 +24,4 @@ pip install streamlit pandas matplotlib
 
 How to Run
 
-streamlit run app.py
+streamlit run main.py
